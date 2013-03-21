@@ -1,0 +1,14 @@
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\bin\Release\DailyPhebus.exe.config
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\bin\Release\DailyPhebus.exe
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\bin\Release\DailyPhebus.pdb
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\bin\Release\fr-FR\DailyPhebus.resources.dll
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\bin\Release\Newtonsoft.Json.dll
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.MainForm.resources
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.LoadForm.resources
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.Properties.Resources.resources
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.MainForm.fr-FR.resources
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.csproj.GenerateResource.Cache
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\fr-FR\DailyPhebus.resources.dll
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.exe
+c:\users\christophe\documents\visual studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.pdb
+C:\Users\Christophe\Documents\Visual Studio 2012\Projects\DailyPhebus\DailyPhebus\obj\Release\DailyPhebus.csprojResolveAssemblyReference.cache
